@@ -1,57 +1,28 @@
-# 🚀 Getting started with Strapi
+# Output
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+Here is the Output of Comic Library (E-commerce).
 
-### `develop`
 
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
+## Demo
 
-```
-npm run develop
-# or
-yarn develop
-```
+Demo Video:
 
-### `start`
+https://user-images.githubusercontent.com/122866611/218437832-8d24e843-696e-4562-84f0-27aab9d3e109.mp4
 
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
+Screenshots:
 
-```
-npm run start
-# or
-yarn start
-```
+![Image 1](https://user-images.githubusercontent.com/122866611/218438551-a4a976c8-3d46-4e73-b4b7-38014f605c0d.png)
+![Image 2](https://user-images.githubusercontent.com/122866611/218438566-adf03e8c-9195-4103-95a3-23f2b11f7e68.png)
+![Image 3](https://user-images.githubusercontent.com/122866611/218438571-3a405df2-cc37-41cc-997e-337b4cc2d192.png)
+![Image 4](https://user-images.githubusercontent.com/122866611/218438574-488684cd-afca-4336-bfa5-a02fe3c1eb95.png)
+![Image 5](https://user-images.githubusercontent.com/122866611/218438578-b025f2bd-3cbd-4ff9-af25-658a7f2680bc.png)
+![Image 6](https://user-images.githubusercontent.com/122866611/218438585-b7282657-ef78-4a40-bcb8-07939c94cce1.png)
+![Image 7](https://user-images.githubusercontent.com/122866611/218438591-c5b9926e-0cc4-434c-bd05-cf6550af2931.png)
 
-### `build`
 
-Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
+## Features
 
-```
-npm run build
-# or
-yarn build
-```
-
-## ⚙️ Deployment
-
-Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
-
-## 📚 Learn more
-
-- [Resource center](https://strapi.io/resource-center) - Strapi resource center.
-- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
-- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
-- [Strapi blog](https://docs.strapi.io) - Official Strapi blog containing articles made by the Strapi team and the community.
-- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
-
-Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
-
-## ✨ Community
-
-- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
-- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
-- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
-
----
-
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+- Responsive for all devices
+- Add to cart
+- Checkout
+- Sorting
